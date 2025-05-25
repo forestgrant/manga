@@ -3,15 +3,15 @@
   "description": "Manga adaptations of assorted Kamen Rider and Super Sentai TV shows and movies, serialized in Telemanga Heroes magazine.",
   "artist": "Masato Ichishiki, Hideaki Fujii, Naoyuki Fujisawa",
   "author": "Shotaro Ishinomori",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://imgur.com/a/8AIpsOO",
   "chapters": {
     "2": {
       "title": "Kamen Rider Den-O and Kiva The Movie: Climax Deka",
       "volume": "1",
+      "last_updated": "1616368746",
       "groups": {
         "Omega Brain Worms": "/proxy/api/imgur/chapter/9mS7zi4/"
-      },
-      "last_updated": "1616368746"
+      }
     }
   }
 }
