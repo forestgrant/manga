@@ -12,6 +12,36 @@
       "groups": {
         "Omega Brain Worms": "/proxy/api/imgur/chapter/9mS7zi4"
       }
+    },
+    "4": {
+      "title": "Farewell Kamen Rider Den-O The Movie: Final Countdown Part 1",
+      "volume": "2",
+      "last_updated": "1750202758",
+      "groups": {
+        "Omega Brain Worms": [
+          "https://imgur.com/a/Ambt2JF"
+        ]
+      }
+    },
+    "5": {
+      "title": "Farewell Kamen Rider Den-O The Movie: Final Countdown Part 2",
+      "volume": "2",
+      "last_updated": "1750202783",
+      "groups": {
+        "Omega Brain Worms": [
+          "https://imgur.com/a/HhZiwlM"
+        ]
+      }
+    },
+    "5.5": {
+      "title": "Omake: Momotaros Laugh-Out-Loud Theater",
+      "volume": "2",
+      "last_updated": "1750202933",
+      "groups": {
+        "Omega Brain Worms": [
+          "https://imgur.com/a/EjfHwhV"
+        ]
+      }
     }
   }
 }
