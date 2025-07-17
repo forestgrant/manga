@@ -42,9 +42,7 @@
       "volume": "3",
       "last_updated": "1752721985",
       "groups": {
-        "Omega Brain Worms": [
-          "https://imgur.com/a/cho-kamen-rider-den-o-onigashima-warship-part-1-FRxAYKE"
-        ]
+        "Omega Brain Worms": "/proxy/api/imgur/chapter/https://imgur.com/a/cho-kamen-rider-den-o-onigashima-warship-part-1-FRxAYKE"
       }
     },
     "11": {
@@ -52,9 +50,7 @@
       "volume": "2",
       "last_updated": "1752722356",
       "groups": {
-        "Omega Brain Worms": [
-          "https://imgur.com/a/pr4TeWc"
-        ]
+        "Omega Brain Worms": "/proxy/api/imgur/chapter/https://imgur.com/a/pr4TeWc"
       }
     },
     "5.5": {
@@ -70,9 +66,7 @@
       "volume": "2",
       "last_updated": "1752722405",
       "groups": {
-        "Omega Brain Worms": [
-          "https://imgur.com/a/wtK6bjS"
-        ]
+        "Omega Brain Worms": "/proxy/api/imgur/chapter/https://imgur.com/a/wtK6bjS"
       }
     }
   }
