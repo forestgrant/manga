@@ -47,12 +47,32 @@
         ]
       }
     },
+    "11": {
+      "title": "Cho Kamen Rider Den-O and Decade Neo Generations: The Onigashima Warship Part 2",
+      "volume": "2",
+      "last_updated": "1752722356",
+      "groups": {
+        "Omega Brain Worms": [
+          "https://imgur.com/a/pr4TeWc"
+        ]
+      }
+    },
     "5.5": {
       "title": "Omake: Momotaros Laugh-Out-Loud Theater",
       "volume": "2",
       "last_updated": "1750202933",
       "groups": {
         "Omega Brain Worms": "/proxy/api/imgur/chapter/omake-momotaros-laugh-out-loud-theater-EjfHwhV"
+      }
+    },
+    "11.5": {
+      "title": "Momotaros Laugh-Out-Loud Theater Returns!!",
+      "volume": "2",
+      "last_updated": "1752722405",
+      "groups": {
+        "Omega Brain Worms": [
+          "https://imgur.com/a/wtK6bjS"
+        ]
       }
     }
   }
