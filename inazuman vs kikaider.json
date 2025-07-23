@@ -5,6 +5,22 @@
   "author": "Shotaro Ishinomori",
   "cover": "https://imgur.com/a/inazuman-vs-kikaider-volume-1-I8CpAeK",
   "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1753295876",
+      "groups": {
+        "KikaiScans": "/proxy/api/imgchest/chapter/5xy28kb6zyl"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1753295995",
+      "groups": {
+        "KikaiScans": "/proxy/api/mangadex/chapter/0a82912a-4d79-442e-9d67-66a417a965f9"
+      }
+    },
     "3": {
       "title": "Chapter 3",
       "volume": "1",
