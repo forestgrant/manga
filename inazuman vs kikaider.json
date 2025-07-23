@@ -4,5 +4,14 @@
   "artist": "MEIMU",
   "author": "Shotaro Ishinomori",
   "cover": "https://imgur.com/a/inazuman-vs-kikaider-volume-1-I8CpAeK",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "last_updated": "1753276830",
+      "groups": {
+        "KikaiScans": "/proxy/api/imgur/chapter/inazuman-vs-kikaider-chapter-3-vpExXcl"
+      }
+    }
+  }
 }
