@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1753276830",
       "groups": {
-        "KikaiScans": "/proxy/api/imgur/chapter/inazuman-vs-kikaider-chapter-3-vpExXcl"
+        "KikaiScans": [
+          "https://drive.google.com/drive/folders/1OoICqurDXvtbX_9Ip1RNNLWAouLZ7pjk?usp=sharing"
+        ]
       }
     }
   }
