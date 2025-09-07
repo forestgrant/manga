@@ -1,16 +1,16 @@
 {
-  "title": "kamen rider tv mag",
-  "description": "",
-  "artist": "",
-  "author": "",
+  "title": "Kamen Rider (Televi Magazine)",
+  "description": "Mitsuru Sugaya's debut manga, based off of Kamen Rider 1971 tokusatsu episodes.",
+  "artist": "Mitsuru Sugaya",
+  "author": "Shotaro Ishinomori",
   "cover": "",
   "chapters": {
     "1": {
-      "title": "",
-      "volume": "",
+      "title": "The Anteater Kaijin Antegabari",
+      "volume": "1",
       "last_updated": "1757206040",
       "groups": {
-        "": "https://mangadex.org/chapter/c34cc8ea-ff74-404d-8021-1efcf6ff7d1f/3"
+        "Omega Brain Worms": "https://mangadex.org/chapter/c34cc8ea-ff74-404d-8021-1efcf6ff7d1f/3"
       }
     }
   }
