@@ -4,16 +4,5 @@
   "artist": "Mitsuru Sugaya",
   "author": "Shotaro Ishinomori",
   "cover": "",
-  "chapters": {
-    "1": {
-      "title": "The Anteater Kaijin Antegabari",
-      "volume": "1",
-      "last_updated": "1757207577",
-      "groups": {
-        "Omega Brain Worms": [
-          "https://mangadex.org/chapter/c34cc8ea-ff74-404d-8021-1efcf6ff7d1f"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
