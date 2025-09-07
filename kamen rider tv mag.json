@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1757207577",
       "groups": {
-        "Omega Brain Worms": "/proxy/api/mangadex/chapter/c34cc8ea-ff74-404d-8021-1efcf6ff7d1f"
+        "Omega Brain Worms": [
+          "https://mangadex.org/chapter/c34cc8ea-ff74-404d-8021-1efcf6ff7d1f"
+        ]
       }
     }
   }
