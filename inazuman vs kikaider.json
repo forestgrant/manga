@@ -29,12 +29,20 @@
         "KikaiScans": "/proxy/api/imgchest/chapter/a84658kxvyx"
       }
     },
-     "4": {
+    "4": {
       "title": "Chapter 4",
       "volume": "1",
       "last_updated": "",
       "groups": {
         "KikaiScans": "/proxy/api/imgchest/chapter/wl7loovlp7x"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "last_updated": "1758806302",
+      "groups": {
+        "KikaiScans": "/proxy/api/imgchest/chapter/9p4n8pgvm4n"
       }
     }
   }
