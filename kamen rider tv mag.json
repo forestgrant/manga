@@ -76,6 +76,22 @@
       "groups": {
         "Omega Brain Worms": "/proxy/api/mangadex/chapter/1618a829-a896-4f59-b5c5-0fbfefd3b13f"
       }
+    },
+    "10": {
+      "title": "The Electric Kaijin Mantiskid",
+      "volume": "1",
+      "last_updated": "1759544707",
+      "groups": {
+        "Omega Brain Worms": "/proxy/api/mangadex/chapter/60c26c58-7c86-46bb-a7fe-fde25980d284"
+      }
+    },
+    "11": {
+      "title": "Electric Firefly",
+      "volume": "1",
+      "last_updated": "1759544741",
+      "groups": {
+        "Omega Brain Worms": "/proxy/api/mangadex/chapter/d5e505e5-9be5-462c-9926-ac2d3186f04b"
+      }
     }
   }
 }
