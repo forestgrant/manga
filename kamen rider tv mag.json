@@ -92,6 +92,22 @@
       "groups": {
         "Omega Brain Worms": "/proxy/api/mangadex/chapter/d5e505e5-9be5-462c-9926-ac2d3186f04b"
       }
+    },
+    "12": {
+      "title": "The Grotesque Ganikoumoru and the Rider Kid Corps",
+      "volume": "1",
+      "last_updated": "1759793147",
+      "groups": {
+        "Omega Brain Worms": "https://mangadex.org/title/a3c414d3-8a78-4852-978d-a903c30b91fa/kamen-rider"
+      }
+    },
+    "13": {
+      "title": "AnemoneJaguar",
+      "volume": "1",
+      "last_updated": "1759793827",
+      "groups": {
+        "Omega Brain Worms": "/proxy/api/mangadex/chapter/fb7a109a-ffd0-47db-b4e0-6f3be29c4468"
+      }
     }
   }
 }
