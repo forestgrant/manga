@@ -108,6 +108,22 @@
       "groups": {
         "Omega Brain Worms": "/proxy/api/mangadex/chapter/fb7a109a-ffd0-47db-b4e0-6f3be29c4468"
       }
+    },
+    "14": {
+      "title": "The Youkai Cat-Gecko",
+      "volume": "1",
+      "last_updated": "1760215237",
+      "groups": {
+        "Omega Brain Worms": "/proxy/api/mangadex/chapter/6f352567-cdd7-4af2-b646-26710ae08825"
+      }
+    },
+    "15": {
+      "title": "The Impostor Rider",
+      "volume": "1",
+      "last_updated": "1760215545",
+      "groups": {
+        "Omega Brain Worms": "/proxy/api/mangadex/chapter/108d490b-1727-4d63-985c-ba11a6116f33"
+      }
     }
   }
 }
