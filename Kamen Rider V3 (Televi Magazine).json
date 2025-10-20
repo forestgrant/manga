@@ -12,6 +12,22 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/826c0067-71b7-40df-b1fa-7fa1f0d921a0"
       }
+    },
+    "2": {
+      "title": "The Kaijin Machinegun Snake",
+      "volume": "1",
+      "last_updated": "1760995442",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/37634931-c924-4f52-ac35-309445bcb8a9"
+      }
+    },
+    "3": {
+      "title": "Knife Armadillo and Buzzsaw Lizard",
+      "volume": "1",
+      "last_updated": "1760995506",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/69bcd7c6-ff1c-41ce-b13f-aecdf3e9f86b"
+      }
     }
   }
 }
