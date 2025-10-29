@@ -28,6 +28,22 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/37634931-c924-4f52-ac35-309445bcb8a9"
       }
+    },
+    "4": {
+      "title": "Pickaxe Shark and Drill Mole",
+      "volume": "1",
+      "last_updated": "1761770975",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/fc302eed-bb56-4140-9c25-778978902d74"
+      }
+    },
+    "5": {
+      "title": "Burner Bat and Missile Gecko",
+      "volume": "1",
+      "last_updated": "1761771126",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/4794e2b0-6c8e-4fe9-9b8a-3b406d998cb6"
+      }
     }
   }
 }
