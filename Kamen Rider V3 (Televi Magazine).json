@@ -44,6 +44,22 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/4794e2b0-6c8e-4fe9-9b8a-3b406d998cb6"
       }
+    },
+    "6": {
+      "title": "Syringe Spider and Guillotine Saurus",
+      "volume": "2",
+      "last_updated": "1762476568",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/aff2ecf5-fc6e-4cc5-9fc5-372881a046f5"
+      }
+    },
+    "7": {
+      "title": "Heater Cicada and Mantis Merang",
+      "volume": "2",
+      "last_updated": "1762476846",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/6594d7ce-8893-4d41-bc3b-a486360c25e6"
+      }
     }
   }
 }
