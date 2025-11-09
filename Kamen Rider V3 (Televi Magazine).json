@@ -60,6 +60,22 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/6594d7ce-8893-4d41-bc3b-a486360c25e6"
       }
+    },
+    "8": {
+      "title": "Crab Laser",
+      "volume": "2",
+      "last_updated": "1762700630",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/8da26199-8d57-4c37-a9ff-4d34daa2a3b5"
+      }
+    },
+    "9": {
+      "title": "The Tusk Tribe and the Winged Tribe",
+      "volume": "2",
+      "last_updated": "1762700633",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/e35a3b20-b4ca-4752-8806-3ebc8c4e0da6"
+      }
     }
   }
 }
