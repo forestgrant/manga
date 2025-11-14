@@ -76,6 +76,16 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/e35a3b20-b4ca-4752-8806-3ebc8c4e0da6"
       }
+    },
+    "10": {
+      "title": "Deadman Bat",
+      "volume": "2",
+      "last_updated": "1763156606",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
     }
   }
 }
