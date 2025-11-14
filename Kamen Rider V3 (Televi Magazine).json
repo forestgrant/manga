@@ -82,9 +82,15 @@
       "volume": "2",
       "last_updated": "1763156606",
       "groups": {
-        "": [
-          ""
-        ]
+        "": "https://mangadex.org/title/76703f64-3d5f-4fb6-9417-07ea7569407c/kamen-rider-v3"
+      }
+    },
+    "11": {
+      "title": "Enter Riderman!",
+      "volume": "2",
+      "last_updated": "1763156632",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/326579c4-3b60-434f-820c-ebf11e6b79e9"
       }
     }
   }
