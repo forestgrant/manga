@@ -92,6 +92,22 @@
       "groups": {
         "": "/proxy/api/mangadex/chapter/326579c4-3b60-434f-820c-ebf11e6b79e9"
       }
+    },
+    "12": {
+      "title": "Coelacanth Kid",
+      "volume": "2",
+      "last_updated": "1763304156",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/e6ad82f1-267b-41f6-964a-10929c5be8dc"
+      }
+    },
+    "12.5": {
+      "title": "Special Chapters + Commentary",
+      "volume": "2",
+      "last_updated": "1763304161",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/fe798df3-f64c-429d-871f-3860bbca2751"
+      }
     }
   }
 }
