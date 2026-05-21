@@ -18,7 +18,9 @@
       "volume": "2",
       "last_updated": "1750202758",
       "groups": {
-        "Omega Brain Worms": "/proxy/api/imgur/chapter/farewell-kamen-rider-den-o-movie-final-countdown-part-1-Ambt2JF"
+        "Omega Brain Worms": [
+          "https://imgur.com/a/farewell-kamen-rider-den-o-movie-final-countdown-part-1-Ambt2JF"
+        ]
       }
     },
     "5": {
